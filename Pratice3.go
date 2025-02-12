@@ -17,16 +17,3 @@ func main() {
 	}
 }
 
-git init
-
-git remote add origin https://github.com/TechieTojin/GoPratice.git
-
-git remote -v
-
-git add Pratice3.go
-
-git commit -m "Added Pratice3.go"
-git push -u origin main
-
-git branch -M main
-git push -u origin main
